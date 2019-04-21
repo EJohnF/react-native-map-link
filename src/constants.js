@@ -28,16 +28,16 @@ export function prefixForGoogleMaps(alwaysIncludeGoogle) {
 }
 
 export const titles = {
-  'apple-maps': 'Apple Maps',
-  'google-maps': 'Google Maps',
+  'apple-maps': 'Apple Карты',
+  'google-maps': 'Google Карты',
   'citymapper': 'Citymapper',
   'uber': 'Uber',
   'lyft': 'Lyft',
   'transit': 'The Transit App',
   'waze': 'Waze',
-  'yandex': 'Yandex.Navi',
+  'yandex': 'Яндекс Навигатор',
   'moovit': 'Moovit',
-  'yandex-maps': 'Yandex Maps'
+  'yandex-maps': 'Яндекс Карты'
 }
 
 export const icons = {
